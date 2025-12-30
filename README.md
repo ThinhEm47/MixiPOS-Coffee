@@ -87,8 +87,8 @@ sd
 1. **Clone repository**
 
 ```bash
-git clone https://github.com/GoalCrmApp/GoalPÓ.git
-cd GoalPÓ
+git https://github.com/ThinhEm47/MixiPOS-Coffee
+cd MixiPOS-Coffee
 ```
 
 2. **Cài đặt dependencies**
